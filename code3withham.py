@@ -24,7 +24,7 @@ from adafruit_macropad import MacroPad
 
 MACRO_FOLDER = '/macros'
 
-
+"""Adding a test comment here"""
 # CLASSES AND FUNCTIONS ----------------
 
 class App:
